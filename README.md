@@ -653,154 +653,84 @@ https://drive.google.com/drive/u/0/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU
 
 ## Red Team Hardware Hacking Toolkit
 
-### Lock picks (pocket) - commonly used picks
-
-### Under-the-door tool
-
-### Canned air, hand warmers (request-to-exit bypass, etc.)
-
-### Shove knife/shrum tool
-
-### -Crash bar tool
-
-### Dimple lock gun
-
-### Tubular lock picks
-
-### Fire/emergency elevator key set
-
-### USB keylogger and Hak5 rubber ducky
-
-### Hak5 LAN turtle
-
-### Pineapple nano
-
-### LAN tap
-
-### Wafer and warded pick set
-
-### Laptop or mobile device
-
-### External hard drive
-
-### Fake letter of authorization (as a plan B and to test incident response)
-
-### Real letter of authorization
-
-### Props for guises if utilizing social engineering
-
-### RFID thief/cloner (something that is easy to hide - I often use a clipboard like the one shown in the picture above)
-
-### Camera (or just use your smartphone)
-
-### Lock picks (pocket) - common
-
-### Lock picks (backpack) - expanded set
-
-### Under-the-door tool
-
-### Shove knife/shrum tool
-
-### Crash bar tool
-
-### Snap gun with interchangeable needles
-
-### Dimple lock gun
-
-### Tubular lock picks
-
-### Hand warmers/canned air
-
-### Leather gloves/good shoes
-
-### Fire/emergency elevator key set
-
-### USB keylogger and Hak5 rubber ducky
-
-### Hak5 LAN turtle
-
-### LAN tap
-
-### Wafers and warded pick set
-
-### Laptop if needed
-
-### External hard drive
-
-### Malicious drops x4 (USB, etc.)
-
-### Rogue access point (PwnPlug, Pi, whatever your flavor of choice)
-
-### Hak5 pineapple
-
-### 15dbi wireless antenna (for outside, not really something you want to stuff in your bag inside).
-
-### Nexus 7 with nethunter, TP-link adapter etc.
-
-### Props for guises if utilizing social engineering
-
-### Fake letter of authorization (as a plan B and to test incident response)
-
-### Real letter of authorization
-
-### RFID thief/cloner
-
-### Camera (or just use your smartphone)
-
-### Snake camera (a bonus for looking over drop ceilings or floors)
-
-### Multi-tool
-
-### A few example resource links for some of the above tools
-
-### www.sparrowslockpicks.com
-
-### http://shop.riftrecon.com
-
-### www.wallofsheep.com
-
-### www.hackerwarehouse.com
-
-### www.hak5.org
-
-### Various USB cables (A, B, mini, micro, OTG, etc.)
-
-### SD Cards, microSD cards
-
-### Smartphone (earpiece if with a team)
-
-### Body camera (GoPro/ACE Cameras are sometimes handy with client approval)
-
-### Extra power packs/batteries
-
-### Small flashlight (low lumen)
-
-### RTFM: Red Team Field Manual
+- Lock picks (pocket) - commonly used picks
+- Under-the-door tool
+- Canned air, hand warmers (request-to-exit bypass, etc.)
+- Shove knife/shrum tool
+- Crash bar tool
+- Dimple lock gun
+- Tubular lock picks
+- Fire/emergency elevator key set
+- USB keylogger and Hak5 rubber ducky
+- Hak5 LAN turtle
+- Pineapple nano
+- LAN tap
+- Wafer and warded pick set
+- Laptop or mobile device
+- External hard drive
+- Fake letter of authorization (as a plan B and to test incident response)
+- Real letter of authorization
+- Props for guises if utilizing social engineering
+- RFID thief/cloner (something that is easy to hide - I often use a clipboard like the one shown in the picture above)
+- Camera (or just use your smartphone)
+- Lock picks (pocket) - common
+- Lock picks (backpack) - expanded set
+- Under-the-door tool
+- Shove knife/shrum tool
+- Crash bar tool
+- Snap gun with interchangeable needles
+- Dimple lock gun
+- Tubular lock picks
+- Hand warmers/canned air
+- Leather gloves/good shoes
+- Fire/emergency elevator key set
+- USB keylogger and Hak5 rubber ducky
+- Hak5 LAN turtle
+- LAN tap
+- Wafers and warded pick set
+- Laptop if needed
+- External hard drive
+- Malicious drops x4 (USB, etc.)
+- Rogue access point (PwnPlug, Pi, whatever your flavor of choice)
+- Hak5 pineapple
+- 15dbi wireless antenna (for outside, not really something you want to stuff in your bag inside)
+- Nexus 7 with nethunter, TP-link adapter etc.
+- Props for guises if utilizing social engineering
+- Fake letter of authorization (as a plan B and to test incident response)
+- Real letter of authorization
+- RFID thief/cloner
+- Camera (or just use your smartphone)
+- Snake camera (a bonus for looking over drop ceilings or floors)
+- Multi-tool
+- A few example resource links for some of the above tools
+  - www.sparrowslockpicks.com
+  - http://shop.riftrecon.com
+  - www.wallofsheep.com
+  - www.hackerwarehouse.com
+  - www.hak5.org
+- Various USB cables (A, B, mini, micro, OTG, etc.)
+- SD Cards, microSD cards
+- Smartphone (earpiece if with a team)
+- Body camera (GoPro/ACE Cameras are sometimes handy with client approval)
+- Extra power packs/batteries
+- Small flashlight (low lumen)
+- RTFM: Red Team Field Manual
 
 ## Analysis, Reports and Slides
 
-
-### Internet of Things Research Study (HP 2014 Report)
-
-### The Internet of Fails, (video)
-
-### Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices
-
-### Hack All The Things: 20 Devices in 45 Minutes - (wiki, video)
-
-### Careful Connections: Building Security in the Internet of Things (FTC)
-
-### Analysis of IoT honeypot data; How devices are hacked, type of infections and origin of attacks (Kaspersky lab, 2018)
+- Internet of Things Research Study (HP 2014 Report)
+- The Internet of Fails, (video)
+- Cameras, Thermostats, and Home Automation Controllers, Hacking 14 IoT Devices
+- Hack All The Things: 20 Devices in 45 Minutes - (wiki, video)
+- Careful Connections: Building Security in the Internet of Things (FTC)
+- Analysis of IoT honeypot data; How devices are hacked, type of infections and origin of attacks (Kaspersky lab, 2018)
 
 ## Communities
 
-### IoT VillageTM
-
-### BuildItSecure.ly
-
-### Secure Internet of Things Project (Stanford)
-
-### The Open Web Application Security Project (OWASP)
+- IoT VillageTM
+- BuildItSecure.ly
+- Secure Internet of Things Project (Stanford)
+- The Open Web Application Security Project (OWASP)
 
 ## IoT Hacks
 
