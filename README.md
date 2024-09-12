@@ -261,6 +261,7 @@ https://drive.google.com/drive/u/0/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU
 
 ### Books For IoT Pentesting
 
+- Fuzzing Against the Machine
 - Android Hacker's Handbook
 - Hacking the Xbox - Openbook
 - Car hacker's handbook
